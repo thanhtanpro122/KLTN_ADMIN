@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\KLTN_Admin.Domain\KLTN_Admin.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
